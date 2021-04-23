@@ -5,7 +5,7 @@
 Wraz z coraz większą organizacją SKARu warto zacząć lepiej dokumentować pracę którą wykonujemy.
 W organizacji SKAR na Githubie powinno znajdować się jak najwięcej projektów w celu łatwiejszej współpracy jak i poprawy ogólnej organizacji pracy.
 
-Warto również wspomnieć że dzielenie się swoim kodem i pokazywanie z czego składa się dany projekt, umożliwia mniej doświadczonym osobom zobaczenie jak wygląda dana praca zza kulisów.
+Warto również wspomnieć że dzielenie się swoim kodem i pokazywanie z czego składa się dany projekt, umożliwia mniej doświadczonym osobom zobaczenie jak wygląda dana praca zza kulisów. Dodatkowo warto dodać że trzymanie projektu na gicie potencjalnie **wydłuża życie projektu** oraz zwiększa szansę na jego kontynuację.
 
 Jeżeli robisz jakiś projekt i wykorzystujesz w nim jakikolwiek **język programowania** to warto wykorzystać rozwiązanie jakim jest git. 
 Git umożliwia kontrolę wersji twojego kodu, a wraz z GitHubem znacznie ułatwia kolaborację z innymi osobami nad tworzonym kodem.
@@ -20,7 +20,7 @@ Warto jednak dodać że każdy może zrobić pull request do dowolnego repozytor
 
 Repozytoria z zasady nie muszą kierować się z góry ustaloną strukturą, jednak miło by było jak by posiadały plik README.md aby wiadomo było o co chodzi.
 
-Dodam też że nie zalecane jest pushowanie bezpośrednio na gałąź `main/master` tylko używanie oddzielnej gałęzi np. `devel` lub zrobienie forka repozytorium na swoim prywatnym koncie Github i robienie pull requestów (nawet jak mają być od razu zatwierdzone), lub robić obie rzeczy na raz :) .
+Dodam też że nie zalecane jest pushowanie bezpośrednio na gałąź `main/master` (szczególnie w przypadku pracy w grupie) tylko używanie oddzielnej gałęzi np. `devel` lub zrobienie forka repozytorium na swoim prywatnym koncie Github i robienie pull requestów (nawet jak mają być od razu zatwierdzone), lub robić obie rzeczy na raz :) .
 
 
 ## Jak radzić sobie z gitem i Githubem ?
