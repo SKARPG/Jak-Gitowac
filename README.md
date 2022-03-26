@@ -1,3 +1,6 @@
+![skar_github](https://user-images.githubusercontent.com/22836301/160253554-8089d851-0535-4bcf-9334-e2be1fbe22e7.png)
+
+
 # Jak używać gita Skaru ?
 
 ## Po co i kiedy ?
